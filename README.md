@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Groovy programming related to null pointer exceptions. Groovy's dynamic typing can make it easy to accidentally pass null values to methods, which may lead to unexpected behavior. This example shows how to handle nulls gracefully and prevent runtime errors.
